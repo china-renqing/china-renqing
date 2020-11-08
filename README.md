@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##你好我是任庆👋
--我是一名重工学子
--一名前端初学者
--一名python初学者
--一名C#学子
+- 我是一名重工学子
+- 一名前端初学者
+- 一名python初学者
+- 一名C#学子
