@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-test
+##你好我是任庆👋
+-我是一名重工学子
+-一名前端初学者
+-一名python初学者
+-一名C#学子
