@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 一名Python初学者 🌱
 - 一名前端爱好者❤
 - 一名web学子💻
-- <div style="color:#00acec">测试颜色是否改变</div>
